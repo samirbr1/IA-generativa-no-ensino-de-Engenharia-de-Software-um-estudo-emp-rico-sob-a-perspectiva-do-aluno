@@ -1,0 +1,12 @@
+Quão inseguro, desencorajado, irritado, estressado e incomodado você se sentiu durante a tarefa?, sendo 1 nada ansioso e 10 muito ansioso
+
+Quanta atividade mental e perceptual foi necessária (por exemplo, pensamento, decisão, cálculo, lembrança, observação, busca, etc.), sendo que 1 representa baixo esforço mental e 10 representa alto esforço mental
+
+Quanta pressão de tempo você sentiu devido à taxa ou ritmo em que as tarefas ou elementos da tarefa ocorreram? O ritmo foi lento e tranquilo ou rápido e frenético?, sendo que 1 representa ritmo muito lento e 10 representa ritmo muito rápido
+
+Eu tenho uma visão positiva sobre o uso do ChatGPT, considerando sua capacidade de fornecer assistência útil e facilitar várias tarefas (ESCALA LIKERT)
+
+Você percebe que outras pessoas importantes em sua área estão usando ou recomendando o uso do ChatGPT?(Treinamento, cursos) (ESCALA LIKERT)
+
+Pretendo continuar interagindo com o chatGPT no futuro  (ESCALA LIKERT)
+

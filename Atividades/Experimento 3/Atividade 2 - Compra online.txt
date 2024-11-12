@@ -1,0 +1,4 @@
+Criar um diagrama de atividade para representar o seguinte processo: Um cliente liga a para para o setor de tele-vendas de uma empresa e realiza o seu pedido. 
+Após  a realização do pedido, o cliente informa o número do CC. Após autorização online da compra,  as quantidades são baixadas do estoque e os dados do pedido são enviados para o setor de faturamento para emissão da NF e para o setor de logística para separação dos produtos. 
+O setor  de logística separa os produtos e embala os mesmos juntamente com a NF emitida. O pacote é  repassado a uma transportadora que entrega o produto na casa do cliente. Este recebe o produto  e assina o canhoto de “mercadoria entregue”. 
+Esse canhoto é entregue no setor de logística para  dar baixa na entrega do produto.
